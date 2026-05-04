@@ -84,3 +84,27 @@ Every PR must include:
 
 ## 📝 Commit Message Format
 
+type(scope): description
+
+Example:
+feat(control-panel): add RefreshUI_AllTabs_v01
+refactor(builders): merge missing logic from v02
+docs(standards): update naming conventions
+
+---
+
+## 🧭 Branch Strategy
+
+- `main` — stable, production‑ready  
+- `dev` — integration branch  
+- `feature/*` — new features  
+- `refactor/*` — refactors  
+- `fix/*` — bug fixes  
+
+---
+
+## 📜 Licensing & Ownership
+All contributions become part of the project and must comply with the Authoritative Development Guarantee.
+
+## 📝 Commit Message Format
+
