@@ -1,0 +1,6 @@
+# Master Engineering Backlog — GitHub Issue List
+
+> Suggested usage:
+> - Create one GitHub issue per **top-level item** below.
+> - Copy the relevant block into the issue body.
+> - Use labels like: `priority:high`, `priority:medium`, `priority:low`, `area:control-panel`, etc.
